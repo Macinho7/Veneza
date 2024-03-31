@@ -1,1 +1,3 @@
-Bom, esse meu projeto foi baseado tentando copiar o maximo que eu consegui do stack overflow, somente os principais do site, com apenas meus 4 meses de experiencia, entao foi o maximo que podi fazer, espero que gostem, se poderem me dar alguma dica, agradeco!
+Bom, esse meu projeto foi baseado tentando copiar o maximo que eu consegui do stack overflow, pro back-end com nestjs, faltou muita coisa e claro, somente os principais do site, com apenas meus 4 meses de experiencia, entao foi o maximo que eu podi fazer, espero que esteja bom, se poderem me dar alguma dica, agradeco!
+
+Well, this project of mine was based on trying to copy as much as I could from stack overflow, to the back-end with nestjs, there was a lot missing and of course, only the main things on the site, with just my 4 months of experience, so it was the best What can I do, I hope it's good, if you can give me any tips, I'd appreciate it!
