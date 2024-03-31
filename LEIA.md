@@ -1,0 +1,1 @@
+Bom, esse meu projeto foi baseado tentando copiar o maximo que eu consegui do stack overflow, somente os principais do site, com apenas meus 4 meses de experiencia, entao foi o maximo que podi fazer, espero que gostem, se poderem me dar alguma dica, agradeco!
